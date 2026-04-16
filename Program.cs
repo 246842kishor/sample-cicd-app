@@ -8,7 +8,7 @@ namespace SampleCicdApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, CI/CD World!..............");
+            Console.WriteLine("Hello, CI/CD World!..............>>>>>>>>");
             Console.ReadLine();  // Keeps the app running for demo
         }
     }
