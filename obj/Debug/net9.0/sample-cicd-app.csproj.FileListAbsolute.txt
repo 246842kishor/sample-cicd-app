@@ -1,0 +1,15 @@
+C:\Users\246842\sample-cicd-app\bin\Debug\net9.0\sample-cicd-app.exe
+C:\Users\246842\sample-cicd-app\bin\Debug\net9.0\sample-cicd-app.deps.json
+C:\Users\246842\sample-cicd-app\bin\Debug\net9.0\sample-cicd-app.runtimeconfig.json
+C:\Users\246842\sample-cicd-app\bin\Debug\net9.0\sample-cicd-app.dll
+C:\Users\246842\sample-cicd-app\bin\Debug\net9.0\sample-cicd-app.pdb
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\sample-cicd-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\sample-cicd-app.AssemblyInfoInputs.cache
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\sample-cicd-app.AssemblyInfo.cs
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\sample-cicd-app.csproj.CoreCompileInputs.cache
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\sample-cicd-app.sourcelink.json
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\sample-cicd-app.dll
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\refint\sample-cicd-app.dll
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\sample-cicd-app.pdb
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\sample-cicd-app.genruntimeconfig.cache
+C:\Users\246842\sample-cicd-app\obj\Debug\net9.0\ref\sample-cicd-app.dll
